@@ -5,19 +5,19 @@ other = "Page"
 other = "of"
 
 [newer]
-other = "前へ"
+other = "Newer"
 
 [older]
-other = "次へ"
+other = "Older"
 
 [tagged]
-other = "タグ"
+other = "Tagged"
 
 [read_more]
-other = "続きを読む..."
+other = "Read more..."
 
 [noteworthy_theme]
 other = "Noteworthy theme"
 
 [built_with_hugo]
-other = "Hugoで作成"
+other = "Build with Hugo"
